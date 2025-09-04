@@ -1,0 +1,10 @@
+names:
+- Drop Shot
+- Net shot
+- Over defensive clear
+- Serve
+- Smash Shot
+nc: 5
+test: test/images
+train: train_oversampled/images
+val: valid/images
